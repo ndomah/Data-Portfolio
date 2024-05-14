@@ -9,6 +9,7 @@ I graduated from the University of Chicago with an MS in Biomedical Informatics 
 **Developer Tools**: Git, VSCode, Jupyter Notebook
 **Core Competencies**: Data Analytics, Data Science, Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Generative AI, Bioinformatics
 
-## IBM Data Science Professional Certificate:
-
-![p1](https://github.com/ndomah/Nilesh-Data-Portfolio/blob/main/Nilesh%20IBM%20Data%20Science%20Professional%20Certificate.pdf)
+## Links:
+[LinkedIn](https://www.linkedin.com/in/nileshdomah/)
+[Portfolio Website](https://www.datascienceportfol.io/ndomah)
+[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQNB93WZ9LJZ)
