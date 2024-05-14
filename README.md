@@ -10,6 +10,6 @@ I graduated from the University of Chicago with an MS in Biomedical Informatics 
 - **Core Competencies**: Data Analytics, Data Science, Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Generative AI, Bioinformatics
 
 ## Links:
-[LinkedIn](https://www.linkedin.com/in/nileshdomah/)
-[Portfolio Website](https://www.datascienceportfol.io/ndomah)
-[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQNB93WZ9LJZ)
+- [LinkedIn](https://www.linkedin.com/in/nileshdomah/)
+- [Portfolio Website](https://www.datascienceportfol.io/ndomah)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQNB93WZ9LJZ)
