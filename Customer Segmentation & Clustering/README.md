@@ -1,5 +1,5 @@
 # Shopping Customer Segmentation
-In this unsupervised machine learning project, I [clustered customers](https://github.com/ndomah/Nilesh-Data-Portfolio/blob/main/Customer%20Segmentation%20%26%20Clustering/Shopping%20Customer%20Segmentation.ipynb) based on their shopping data and demographics to better undesrtand the target for marketing activities. 
+In this unsupervised machine learning project, I [clustered customers](https://github.com/ndomah/Nilesh-Data-Portfolio/blob/main/Customer%20Segmentation%20%26%20Clustering/Shopping%20Customer%20Segmentation.ipynb) based on their shopping data and demographics to better understand the target for marketing activities. 
 
 ![clusters](https://github.com/ndomah/Nilesh-Data-Portfolio/blob/main/Customer%20Segmentation%20%26%20Clustering/clustering_bivaraiate.png)
 
