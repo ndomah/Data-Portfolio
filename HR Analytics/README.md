@@ -1,11 +1,13 @@
-# Using Analytics to Drive Employee Incentives and Wellness
-In this project, I:
-- Built a database
-- Developed [SQL queries](https://github.com/ndomah/Nilesh-Data-Portfolio/blob/main/HR%20Analytics/HR%20Analtyics.sql) to answer analytical questions
-- Connected the database to Power BI
-- Bulit a [dashboard](https://github.com/ndomah/Nilesh-Data-Portfolio/blob/main/HR%20Analytics/HR%20Analytics%20Dashboard.pbix) based on a [wireframe](https://github.com/ndomah/Nilesh-Data-Portfolio/blob/main/HR%20Analytics/Wireframe.png). 
+# Employee Incentives and Wellness Analysis & Dashboard
+## Tools Used:
+- SQL
+- Power BI
+## Description:
+- Constructed a database and crafted SQL queries to address analytical inquiries, connecting the database to Power BI to develop a dashboard aimed at identifying individuals eligible for a company's healthy bonus program.
+- Utilized data from a comprehensive pool of over 700 employees to inform dashboard design and evaluation.
+- Designed a Power BI dashboard featuring 3 key metrics and an array of interactive visualizations, including 4 pie charts, 2 line charts, 1 scatter plot, and a detailed table, facilitating the assessment of relationships across more than 10 variables.
+## Preview:
+- [SQL Code](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/Employee%20Incentives%20and%20Wellness%20Analysis%20%26%20Dashboard/HR%20Analtyics.sql)
 
-The goal was to provide a list of healthy individuals & low absenteeism for a companys healthy bonus program.
-
-![dasboard](https://github.com/ndomah/Nilesh-Data-Portfolio/blob/main/HR%20Analytics/HR%20Analytics%20Dashboard.png)
-
+- Dashboard:
+![Dashboard](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/Employee%20Incentives%20and%20Wellness%20Analysis%20%26%20Dashboard/HR%20Analytics%20Dashboard.png)
